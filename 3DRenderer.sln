@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DRenderer", "3DRenderer\3DRenderer.vcxproj", "{1A68F785-54E1-4CC7-BB8E-C9DDA1DF4F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A68F785-54E1-4CC7-BB8E-C9DDA1DF4F75}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1A68F785-54E1-4CC7-BB8E-C9DDA1DF4F75}.Debug|Win32.Build.0 = Debug|Win32
+		{1A68F785-54E1-4CC7-BB8E-C9DDA1DF4F75}.Release|Win32.ActiveCfg = Release|Win32
+		{1A68F785-54E1-4CC7-BB8E-C9DDA1DF4F75}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
